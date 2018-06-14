@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AccId</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AccId</shortDescription>
+        <value>CF00N0Y00000Rf02S_lkid</value>
+    </labels>
+    <labels>
+        <fullName>LBL_BTN_Approve</fullName>
+        <categories>OrderActivate Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_BTN_Approve</shortDescription>
+        <value>Approve</value>
+    </labels>
+    <labels>
+        <fullName>LBL_BTN_ApproveWithoutEmail</fullName>
+        <categories>OrderActivate Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_BTN_ApproveWithoutEmail</shortDescription>
+        <value>Approve Without Email</value>
+    </labels>
+    <labels>
+        <fullName>LBL_BTN_Reject</fullName>
+        <categories>OrderActivate Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_BTN_Reject</shortDescription>
+        <value>Reject</value>
+    </labels>
+    <labels>
+        <fullName>LBL_DownloadPDF_NotFound</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_DownloadPDF_NotFound</shortDescription>
+        <value>No PDF found</value>
+    </labels>
+    <labels>
+        <fullName>LBL_DownloadPDF_Success</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_DownloadPDF_Success</shortDescription>
+        <value>PDF downloaded successfully</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_CountryEU</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Country should be EU country</shortDescription>
+        <value>Country should be EU country</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_CusCountry</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Customer country code can not be empty</shortDescription>
+        <value>Customer country code can not be empty</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_EmptyShippingCountry</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Shipping country code can not be empty</shortDescription>
+        <value>Shipping country code can not be empty</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_GenError</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error Occurred, Please try again</shortDescription>
+        <value>Error Occurred, Please try again</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_InvalidVAT</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Vat number is not valid</shortDescription>
+        <value>Vat number is not valid</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_InvalidVATReCheck</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>VAT Number is Invalid, Please enter a correct VAT Number and do a re-check</shortDescription>
+        <value>VAT Number is Invalid, Please enter a correct VAT Number and do a re-check</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_NoLegalEntity</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No legal entity found</shortDescription>
+        <value>No legal entity found</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_NoLegalEntityVAT</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No legal entity vat number can not be empty</shortDescription>
+        <value>legal entity vat number can not be empty</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_PHONETIC_ACCOUNTS_INACTIVE</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_ERR_ACC_PHONETIC_ACCOUNTS_INACTIVE</shortDescription>
+        <value>Related accounts are not active</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_PHONETIC_NAME_EMPTY</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_ERR_ACC_PHONETIC_NAME_EMPTY</shortDescription>
+        <value>Related accounts phonetic names can not be empty.</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_VATAccountName</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please update the account name and re-check VAT</shortDescription>
+        <value>Please update the account name and re-check VAT</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ACC_VATEmpty</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Vat number Can not be empty</shortDescription>
+        <value>Vat number Can not be empty</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_CONT_PHONETIC_CONTACTS_INACTIVE</fullName>
+        <categories>Contact Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_ERR_CONT_PHONETIC_CONTACTS_INACTIVE</shortDescription>
+        <value>Related contact is not active</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_CONT_PHONETIC_NAME_EMPTY</fullName>
+        <categories>Contact Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_ERR_CONT_PHONETIC_NAME_EMPTY</shortDescription>
+        <value>Related contact phonetic name can not be empty</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_CON_ContactRoleChange</fullName>
+        <categories>MAS_ContactTrigger</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_ERR_CON_ContactRoleChange</shortDescription>
+        <value>Cannot remove Invoicing contact role for the Bill To Contact on an active order. Please change the Bill To Contact on the following orders before proceeding:</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_CON_StatusChange</fullName>
+        <categories>MAS_ContactTrigger</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_ERR_CON_StatusChange</shortDescription>
+        <value>Cannot inactivate Bill To Contact on an active order. Please change the Bill To Contact on the following orders before proceeding:</value>
+    </labels>
+    <labels>
+        <fullName>LBL_ERR_ExternalDataSources</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_ERR_ExternalDataSources</shortDescription>
+        <value>Something went wrong! Please contact support for more information</value>
+    </labels>
+    <labels>
+        <fullName>LBL_OutstandingBalance</fullName>
+        <categories>Outstanding Balance Lightning Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_OutstandingBalance</shortDescription>
+        <value>Outstanding Balance</value>
+    </labels>
+    <labels>
+        <fullName>LBL_OutstandingBalance_0Days</fullName>
+        <categories>Outstanding Balance Lightning Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_OutstandingBalance_0Days</shortDescription>
+        <value>0-30 Days</value>
+    </labels>
+    <labels>
+        <fullName>LBL_OutstandingBalance_30Days</fullName>
+        <categories>Outstanding Balance Lightning Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_OutstandingBalance_30Days</shortDescription>
+        <value>30-60 Days</value>
+    </labels>
+    <labels>
+        <fullName>LBL_OutstandingBalance_60Days</fullName>
+        <categories>Outstanding Balance Lightning Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_OutstandingBalance_60Days</shortDescription>
+        <value>60-90 Days</value>
+    </labels>
+    <labels>
+        <fullName>LBL_OutstandingBalance_90Days</fullName>
+        <categories>Outstanding Balance Lightning Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_OutstandingBalance_90Days</shortDescription>
+        <value>&gt; 90 Days</value>
+    </labels>
+    <labels>
+        <fullName>LBL_OutstandingBalance_Currency</fullName>
+        <categories>Outstanding Balance Lightning Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_OutstandingBalance_Currency</shortDescription>
+        <value>Currency</value>
+    </labels>
+    <labels>
+        <fullName>LBL_OutstandingBalance_Total</fullName>
+        <categories>Outstanding Balance Lightning Component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_OutstandingBalance_Total</shortDescription>
+        <value>Balance Due</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ACC_VATValSuccess</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>VAT validation succeeded</shortDescription>
+        <value>VAT validation succeeded</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ACC_VATValidLocalInternational</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tax number is already valid for local or international</shortDescription>
+        <value>Tax number is already valid for local or international</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ACC_VATValied</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Vat is Valid</shortDescription>
+        <value>Vat number is valid, Please ensure account name matches the companies legal registered name.</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ODER_AD_APPROVED</fullName>
+        <categories>Order Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_SUCS_ODER_AD_APPROVED</shortDescription>
+        <value>Ad approval success</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ODER_AD_APPROVE_ERROR</fullName>
+        <categories>Order Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_SUCS_ODER_AD_APPROVE_ERROR</shortDescription>
+        <value>Ad approval error</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ODER_APPROVED</fullName>
+        <categories>Order Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_SUCS_ODER_APPROVED</shortDescription>
+        <value>Order is Approved</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ODER_NOT_APPROVED</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_SUCS_ODER_NOT_APPROVED</shortDescription>
+        <value>Order is not approved</value>
+    </labels>
+    <labels>
+        <fullName>LBL_SUCS_ORDER_REJECTED</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LBL_SUCS_ORDER_REJECTED</shortDescription>
+        <value>Order is rejected</value>
+    </labels>
+    <labels>
+        <fullName>LBL_WARN_ACC_LegalNameMatch</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please ensure account name matches the companies legal registered name</shortDescription>
+        <value>Please ensure account name matches the companies legal registered name</value>
+    </labels>
+    <labels>
+        <fullName>LBL_WARN_ACC_VATValidated</fullName>
+        <categories>Account Service</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Vat number is already validated</shortDescription>
+        <value>Vat number is already validated</value>
+    </labels>
+    <labels>
+        <fullName>MAS_MSG_Phonetic_Name_Update</fullName>
+        <categories>MSG</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MAS_MSG_Phonetic_Name_Update</shortDescription>
+        <value>Phonetic name will be updated shortly</value>
+    </labels>
+</CustomLabels>
